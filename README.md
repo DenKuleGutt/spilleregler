@@ -2,5 +2,5 @@
 
 Den norske oversettelsen av de internasjonale spillereglene
 
-Vi bruker Jekyll (vha Github Pages) med dokumentasjonsmalen
+Vi bruker Jekyll (ved hjelp av Github Pages) med dokumentasjonsmalen
 [Just the Docs](https://github.com/pmarsceill/just-the-docs).
